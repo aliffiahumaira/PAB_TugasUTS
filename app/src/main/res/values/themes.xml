@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.TugasUTS" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/emerald_primary_165</item>
+        <item name="colorPrimaryDark">@color/emerald_dark_165</item>
+        <item name="colorAccent">@color/emerald_light_165</item>
+    </style>
+</resources>

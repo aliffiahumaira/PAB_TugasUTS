@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="emerald_dark_165">#064e3b</color>
+    <color name="emerald_primary_165">#059669</color>
+    <color name="emerald_light_165">#10b981</color>
+    <color name="emerald_bg_165">#f0fdf4</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray_dark_165">#374151</color>
+    <color name="gray_light_165">#9ca3af</color>
+    <color name="card_bg_165">#ffffff</color>
+</resources>
